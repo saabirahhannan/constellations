@@ -1,2 +1,2 @@
 # constellations
-Visualizing constellations using matplotlib in python
+Visualizing the Orion constellation using matplotlib in python
